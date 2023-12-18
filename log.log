@@ -1,0 +1,991 @@
+[08.12.23|19:24:43] Folder: "/db" FOUND
+[08.12.23|19:24:43] DATABASE: "users.db" FOUND
+[08.12.23|19:24:43] TABLE: "Users" FOUND
+[08.12.23|19:24:43] DATABASE: "posts.db" FOUND
+[08.12.23|19:24:43] TABLE: "Posts" FOUND
+[08.12.23|19:24:43] DATABASE: "comments.db" FOUND
+[08.12.23|19:24:43] TABLE: "Comments" FOUND
+[08.12.23|19:24:43] Folder: "/db" FOUND
+[08.12.23|19:24:43] DATABASE: "users.db" FOUND
+[08.12.23|19:24:43] TABLE: "Users" FOUND
+[08.12.23|19:24:43] DATABASE: "posts.db" FOUND
+[08.12.23|19:24:43] TABLE: "Posts" FOUND
+[08.12.23|19:24:43] DATABASE: "comments.db" FOUND
+[08.12.23|19:24:43] TABLE: "Comments" FOUND
+[08.12.23|19:25:13] 1 POINTS ADDED TO "admin"
+[08.12.23|19:25:13] USER: "admin" LOGGED IN
+[08.12.23|19:25:17] USER: "admin" LOGGED OUT
+[08.12.23|19:25:25] POST: "2" FOUND
+[08.12.23|20:39:49] POST: "1" FOUND
+[08.12.23|20:39:55] USER: "dogukanurker" FOUND
+[08.12.23|20:39:55] USER: "dogukanurker"s PAGE LOADED
+[08.12.23|20:40:14] 1 POINTS ADDED TO "admin"
+[08.12.23|20:40:14] USER: "admin" LOGGED IN
+[08.12.23|20:40:31] POST: "1" FOUND
+[08.12.23|20:41:03] POST: "1" FOUND
+[08.12.23|20:41:03] 5 POINTS ADDED TO "admin"
+[08.12.23|20:41:03] POST: "1" FOUND
+[08.12.23|20:48:53] USER: "admin" FOUND
+[08.12.23|20:48:53] USER: "admin"s PAGE LOADED
+[08.12.23|20:49:02] 404
+[09.12.23|15:46:34] Folder: "/db" FOUND
+[09.12.23|15:46:34] DATABASE: "users.db" FOUND
+[09.12.23|15:46:34] TABLE: "Users" FOUND
+[09.12.23|15:46:34] DATABASE: "posts.db" FOUND
+[09.12.23|15:46:34] TABLE: "Posts" FOUND
+[09.12.23|15:46:34] DATABASE: "comments.db" FOUND
+[09.12.23|15:46:34] TABLE: "Comments" FOUND
+[10.12.23|19:06:10] Folder: "/db" FOUND
+[10.12.23|19:06:10] DATABASE: "users.db" FOUND
+[10.12.23|19:06:10] TABLE: "Users" FOUND
+[10.12.23|19:06:10] DATABASE: "posts.db" FOUND
+[10.12.23|19:06:10] TABLE: "Posts" FOUND
+[10.12.23|19:06:10] DATABASE: "comments.db" FOUND
+[10.12.23|19:06:10] TABLE: "Comments" FOUND
+[10.12.23|19:07:41] Folder: "/db" FOUND
+[10.12.23|19:07:41] DATABASE: "users.db" FOUND
+[10.12.23|19:07:41] TABLE: "Users" FOUND
+[10.12.23|19:07:41] DATABASE: "posts.db" FOUND
+[10.12.23|19:07:41] TABLE: "Posts" FOUND
+[10.12.23|19:07:41] DATABASE: "comments.db" FOUND
+[10.12.23|19:07:41] TABLE: "Comments" FOUND
+[10.12.23|19:07:41] Folder: "/db" FOUND
+[10.12.23|19:07:41] DATABASE: "users.db" FOUND
+[10.12.23|19:07:41] TABLE: "Users" FOUND
+[10.12.23|19:07:41] DATABASE: "posts.db" FOUND
+[10.12.23|19:07:41] TABLE: "Posts" FOUND
+[10.12.23|19:07:41] DATABASE: "comments.db" FOUND
+[10.12.23|19:07:41] TABLE: "Comments" FOUND
+[10.12.23|19:54:57] Folder: "/db" FOUND
+[10.12.23|19:54:57] DATABASE: "users.db" FOUND
+[10.12.23|19:54:57] TABLE: "Users" FOUND
+[10.12.23|19:54:57] DATABASE: "posts.db" FOUND
+[10.12.23|19:54:57] TABLE: "Posts" FOUND
+[10.12.23|19:54:57] DATABASE: "comments.db" FOUND
+[10.12.23|19:54:57] TABLE: "Comments" FOUND
+[10.12.23|19:54:57] Folder: "/db" FOUND
+[10.12.23|19:54:57] DATABASE: "users.db" FOUND
+[10.12.23|19:54:57] TABLE: "Users" FOUND
+[10.12.23|19:54:57] DATABASE: "posts.db" FOUND
+[10.12.23|19:54:57] TABLE: "Posts" FOUND
+[10.12.23|19:54:57] DATABASE: "comments.db" FOUND
+[10.12.23|19:54:57] TABLE: "Comments" FOUND
+[10.12.23|19:57:39] Folder: "/db" FOUND
+[10.12.23|19:57:39] DATABASE: "users.db" FOUND
+[10.12.23|19:57:39] TABLE: "Users" FOUND
+[10.12.23|19:57:39] DATABASE: "posts.db" FOUND
+[10.12.23|19:57:39] TABLE: "Posts" FOUND
+[10.12.23|19:57:39] DATABASE: "comments.db" FOUND
+[10.12.23|19:57:39] TABLE: "Comments" FOUND
+[10.12.23|20:17:34] Folder: "/db" FOUND
+[10.12.23|20:17:34] DATABASE: "users.db" FOUND
+[10.12.23|20:17:34] TABLE: "Users" FOUND
+[10.12.23|20:17:34] DATABASE: "posts.db" FOUND
+[10.12.23|20:17:34] TABLE: "Posts" FOUND
+[10.12.23|20:17:34] DATABASE: "comments.db" FOUND
+[10.12.23|20:17:34] TABLE: "Comments" FOUND
+[10.12.23|20:18:22] Folder: "/db" FOUND
+[10.12.23|20:18:22] DATABASE: "users.db" FOUND
+[10.12.23|20:18:22] TABLE: "Users" FOUND
+[10.12.23|20:18:22] DATABASE: "posts.db" FOUND
+[10.12.23|20:18:22] TABLE: "Posts" FOUND
+[10.12.23|20:18:22] DATABASE: "comments.db" FOUND
+[10.12.23|20:18:22] TABLE: "Comments" FOUND
+[10.12.23|20:18:54] Folder: "/db" FOUND
+[10.12.23|20:18:54] DATABASE: "users.db" FOUND
+[10.12.23|20:18:54] TABLE: "Users" FOUND
+[10.12.23|20:18:54] DATABASE: "posts.db" FOUND
+[10.12.23|20:18:54] TABLE: "Posts" FOUND
+[10.12.23|20:18:54] DATABASE: "comments.db" FOUND
+[10.12.23|20:18:54] TABLE: "Comments" FOUND
+[10.12.23|20:18:54] Folder: "/db" FOUND
+[10.12.23|20:18:54] DATABASE: "users.db" FOUND
+[10.12.23|20:18:54] TABLE: "Users" FOUND
+[10.12.23|20:18:54] DATABASE: "posts.db" FOUND
+[10.12.23|20:18:54] TABLE: "Posts" FOUND
+[10.12.23|20:18:54] DATABASE: "comments.db" FOUND
+[10.12.23|20:18:54] TABLE: "Comments" FOUND
+[10.12.23|20:19:34] Folder: "/db" FOUND
+[10.12.23|20:19:34] DATABASE: "users.db" FOUND
+[10.12.23|20:19:34] TABLE: "Users" FOUND
+[10.12.23|20:19:34] DATABASE: "posts.db" FOUND
+[10.12.23|20:19:34] TABLE: "Posts" FOUND
+[10.12.23|20:19:34] DATABASE: "comments.db" FOUND
+[10.12.23|20:19:34] TABLE: "Comments" FOUND
+[10.12.23|20:19:40] Folder: "/db" FOUND
+[10.12.23|20:19:40] DATABASE: "users.db" FOUND
+[10.12.23|20:19:40] TABLE: "Users" FOUND
+[10.12.23|20:19:40] DATABASE: "posts.db" FOUND
+[10.12.23|20:19:40] TABLE: "Posts" FOUND
+[10.12.23|20:19:40] DATABASE: "comments.db" FOUND
+[10.12.23|20:19:40] TABLE: "Comments" FOUND
+[10.12.23|20:19:40] Folder: "/db" FOUND
+[10.12.23|20:19:40] DATABASE: "users.db" FOUND
+[10.12.23|20:19:40] TABLE: "Users" FOUND
+[10.12.23|20:19:40] DATABASE: "posts.db" FOUND
+[10.12.23|20:19:40] TABLE: "Posts" FOUND
+[10.12.23|20:19:40] DATABASE: "comments.db" FOUND
+[10.12.23|20:19:40] TABLE: "Comments" FOUND
+[10.12.23|20:38:05] Folder: "/db" FOUND
+[10.12.23|20:38:05] DATABASE: "users.db" FOUND
+[10.12.23|20:38:05] TABLE: "Users" FOUND
+[10.12.23|20:38:05] DATABASE: "posts.db" FOUND
+[10.12.23|20:38:05] TABLE: "Posts" FOUND
+[10.12.23|20:38:05] DATABASE: "comments.db" FOUND
+[10.12.23|20:38:05] TABLE: "Comments" FOUND
+[10.12.23|20:38:50] Folder: "/db" FOUND
+[10.12.23|20:38:50] DATABASE: "users.db" FOUND
+[10.12.23|20:38:50] TABLE: "Users" FOUND
+[10.12.23|20:38:50] DATABASE: "posts.db" FOUND
+[10.12.23|20:38:50] TABLE: "Posts" FOUND
+[10.12.23|20:38:50] DATABASE: "comments.db" FOUND
+[10.12.23|20:38:50] TABLE: "Comments" FOUND
+[10.12.23|21:01:06] Folder: "/db" FOUND
+[10.12.23|21:01:06] DATABASE: "users.db" FOUND
+[10.12.23|21:01:06] TABLE: "Users" FOUND
+[10.12.23|21:01:06] DATABASE: "posts.db" FOUND
+[10.12.23|21:01:06] TABLE: "Posts" FOUND
+[10.12.23|21:01:06] DATABASE: "comments.db" FOUND
+[10.12.23|21:01:06] TABLE: "Comments" FOUND
+[10.12.23|21:01:27] Folder: "/db" FOUND
+[10.12.23|21:01:27] DATABASE: "users.db" FOUND
+[10.12.23|21:01:27] TABLE: "Users" FOUND
+[10.12.23|21:01:27] DATABASE: "posts.db" FOUND
+[10.12.23|21:01:27] TABLE: "Posts" FOUND
+[10.12.23|21:01:27] DATABASE: "comments.db" FOUND
+[10.12.23|21:01:27] TABLE: "Comments" FOUND
+[10.12.23|21:01:27] Folder: "/db" FOUND
+[10.12.23|21:01:27] DATABASE: "users.db" FOUND
+[10.12.23|21:01:27] TABLE: "Users" FOUND
+[10.12.23|21:01:27] DATABASE: "posts.db" FOUND
+[10.12.23|21:01:27] TABLE: "Posts" FOUND
+[10.12.23|21:01:27] DATABASE: "comments.db" FOUND
+[10.12.23|21:01:27] TABLE: "Comments" FOUND
+[10.12.23|21:02:27] 404
+[10.12.23|21:03:11] 404
+[10.12.23|21:04:34] 404
+[10.12.23|21:09:24] Folder: "/db" FOUND
+[10.12.23|21:09:24] DATABASE: "users.db" FOUND
+[10.12.23|21:09:24] TABLE: "Users" FOUND
+[10.12.23|21:09:24] DATABASE: "posts.db" FOUND
+[10.12.23|21:09:24] TABLE: "Posts" FOUND
+[10.12.23|21:09:24] DATABASE: "comments.db" FOUND
+[10.12.23|21:09:24] TABLE: "Comments" FOUND
+[10.12.23|21:09:45] Folder: "/db" FOUND
+[10.12.23|21:09:45] DATABASE: "users.db" FOUND
+[10.12.23|21:09:45] TABLE: "Users" FOUND
+[10.12.23|21:09:45] DATABASE: "posts.db" FOUND
+[10.12.23|21:09:45] TABLE: "Posts" FOUND
+[10.12.23|21:09:45] DATABASE: "comments.db" FOUND
+[10.12.23|21:09:45] TABLE: "Comments" FOUND
+[10.12.23|21:10:11] Folder: "/db" FOUND
+[10.12.23|21:10:11] DATABASE: "users.db" FOUND
+[10.12.23|21:10:11] TABLE: "Users" FOUND
+[10.12.23|21:10:11] DATABASE: "posts.db" FOUND
+[10.12.23|21:10:11] TABLE: "Posts" FOUND
+[10.12.23|21:10:11] DATABASE: "comments.db" FOUND
+[10.12.23|21:10:11] TABLE: "Comments" FOUND
+[10.12.23|21:10:17] Folder: "/db" FOUND
+[10.12.23|21:10:17] DATABASE: "users.db" FOUND
+[10.12.23|21:10:17] TABLE: "Users" FOUND
+[10.12.23|21:10:17] DATABASE: "posts.db" FOUND
+[10.12.23|21:10:17] TABLE: "Posts" FOUND
+[10.12.23|21:10:17] DATABASE: "comments.db" FOUND
+[10.12.23|21:10:17] TABLE: "Comments" FOUND
+[10.12.23|21:10:30] Folder: "/db" FOUND
+[10.12.23|21:10:30] DATABASE: "users.db" FOUND
+[10.12.23|21:10:30] TABLE: "Users" FOUND
+[10.12.23|21:10:30] DATABASE: "posts.db" FOUND
+[10.12.23|21:10:30] TABLE: "Posts" FOUND
+[10.12.23|21:10:30] DATABASE: "comments.db" FOUND
+[10.12.23|21:10:30] TABLE: "Comments" FOUND
+[10.12.23|21:10:51] Folder: "/db" FOUND
+[10.12.23|21:10:51] DATABASE: "users.db" FOUND
+[10.12.23|21:10:51] TABLE: "Users" FOUND
+[10.12.23|21:10:51] DATABASE: "posts.db" FOUND
+[10.12.23|21:10:51] TABLE: "Posts" FOUND
+[10.12.23|21:10:51] DATABASE: "comments.db" FOUND
+[10.12.23|21:10:51] TABLE: "Comments" FOUND
+[10.12.23|21:10:51] Folder: "/db" FOUND
+[10.12.23|21:10:51] DATABASE: "users.db" FOUND
+[10.12.23|21:10:51] TABLE: "Users" FOUND
+[10.12.23|21:10:51] DATABASE: "posts.db" FOUND
+[10.12.23|21:10:51] TABLE: "Posts" FOUND
+[10.12.23|21:10:51] DATABASE: "comments.db" FOUND
+[10.12.23|21:10:51] TABLE: "Comments" FOUND
+[10.12.23|21:51:06] Folder: "/db" FOUND
+[10.12.23|21:51:06] DATABASE: "users.db" FOUND
+[10.12.23|21:51:06] TABLE: "Users" FOUND
+[10.12.23|21:51:06] DATABASE: "posts.db" FOUND
+[10.12.23|21:51:06] TABLE: "Posts" FOUND
+[10.12.23|21:51:06] DATABASE: "comments.db" FOUND
+[10.12.23|21:51:06] TABLE: "Comments" FOUND
+[10.12.23|21:51:06] Folder: "/db" FOUND
+[10.12.23|21:51:06] DATABASE: "users.db" FOUND
+[10.12.23|21:51:06] TABLE: "Users" FOUND
+[10.12.23|21:51:06] DATABASE: "posts.db" FOUND
+[10.12.23|21:51:06] TABLE: "Posts" FOUND
+[10.12.23|21:51:06] DATABASE: "comments.db" FOUND
+[10.12.23|21:51:06] TABLE: "Comments" FOUND
+[10.12.23|21:51:22] USER: "admin" ALREADY LOGGED IN
+[10.12.23|22:17:38] Folder: "/db" FOUND
+[10.12.23|22:17:38] DATABASE: "users.db" FOUND
+[10.12.23|22:17:38] TABLE: "Users" FOUND
+[10.12.23|22:17:38] DATABASE: "posts.db" FOUND
+[10.12.23|22:17:38] TABLE: "Posts" FOUND
+[10.12.23|22:17:38] DATABASE: "comments.db" FOUND
+[10.12.23|22:17:38] TABLE: "Comments" FOUND
+[10.12.23|22:17:46] USER: "admin" ALREADY LOGGED IN
+[10.12.23|22:18:31] Folder: "/db" FOUND
+[10.12.23|22:18:31] DATABASE: "users.db" FOUND
+[10.12.23|22:18:31] TABLE: "Users" FOUND
+[10.12.23|22:18:31] DATABASE: "posts.db" FOUND
+[10.12.23|22:18:31] TABLE: "Posts" FOUND
+[10.12.23|22:18:31] DATABASE: "comments.db" FOUND
+[10.12.23|22:18:31] TABLE: "Comments" FOUND
+[10.12.23|22:18:37] Folder: "/db" FOUND
+[10.12.23|22:18:37] DATABASE: "users.db" FOUND
+[10.12.23|22:18:37] TABLE: "Users" FOUND
+[10.12.23|22:18:37] DATABASE: "posts.db" FOUND
+[10.12.23|22:18:37] TABLE: "Posts" FOUND
+[10.12.23|22:18:37] DATABASE: "comments.db" FOUND
+[10.12.23|22:18:37] TABLE: "Comments" FOUND
+[10.12.23|22:18:43] USER: "admin" ALREADY LOGGED IN
+[10.12.23|22:19:18] Folder: "/db" FOUND
+[10.12.23|22:19:18] DATABASE: "users.db" FOUND
+[10.12.23|22:19:18] TABLE: "Users" FOUND
+[10.12.23|22:19:18] DATABASE: "posts.db" FOUND
+[10.12.23|22:19:18] TABLE: "Posts" FOUND
+[10.12.23|22:19:18] DATABASE: "comments.db" FOUND
+[10.12.23|22:19:18] TABLE: "Comments" FOUND
+[10.12.23|22:19:21] USER: "admin" ALREADY LOGGED IN
+[10.12.23|22:22:42] Folder: "/db" FOUND
+[10.12.23|22:22:42] DATABASE: "users.db" FOUND
+[10.12.23|22:22:42] TABLE: "Users" FOUND
+[10.12.23|22:22:42] DATABASE: "posts.db" FOUND
+[10.12.23|22:22:42] TABLE: "Posts" FOUND
+[10.12.23|22:22:42] DATABASE: "comments.db" FOUND
+[10.12.23|22:22:42] TABLE: "Comments" FOUND
+[10.12.23|22:22:42] Folder: "/db" FOUND
+[10.12.23|22:22:42] DATABASE: "users.db" FOUND
+[10.12.23|22:22:42] TABLE: "Users" FOUND
+[10.12.23|22:22:42] DATABASE: "posts.db" FOUND
+[10.12.23|22:22:42] TABLE: "Posts" FOUND
+[10.12.23|22:22:42] DATABASE: "comments.db" FOUND
+[10.12.23|22:22:42] TABLE: "Comments" FOUND
+[10.12.23|22:22:46] USER: {'email_verified': False, 'family_name': 'admin', 'given_name': 'admin', 'name': 'admin admin', 'preferred_username': 'admin', 'sub': 'ca0f5a55-f207-4d6b-af90-3cb915ae7270'} ALREADY LOGGED IN
+[10.12.23|22:24:56] Folder: "/db" FOUND
+[10.12.23|22:24:56] DATABASE: "users.db" FOUND
+[10.12.23|22:24:56] TABLE: "Users" FOUND
+[10.12.23|22:24:56] DATABASE: "posts.db" FOUND
+[10.12.23|22:24:56] TABLE: "Posts" FOUND
+[10.12.23|22:24:56] DATABASE: "comments.db" FOUND
+[10.12.23|22:24:56] TABLE: "Comments" FOUND
+[10.12.23|22:25:00] USER: {'email_verified': False, 'family_name': 'admin', 'given_name': 'admin', 'name': 'admin admin', 'preferred_username': 'admin', 'sub': 'ca0f5a55-f207-4d6b-af90-3cb915ae7270'} ALREADY LOGGED IN
+[10.12.23|22:25:35] Folder: "/db" FOUND
+[10.12.23|22:25:35] DATABASE: "users.db" FOUND
+[10.12.23|22:25:35] TABLE: "Users" FOUND
+[10.12.23|22:25:35] DATABASE: "posts.db" FOUND
+[10.12.23|22:25:35] TABLE: "Posts" FOUND
+[10.12.23|22:25:35] DATABASE: "comments.db" FOUND
+[10.12.23|22:25:35] TABLE: "Comments" FOUND
+[10.12.23|22:25:39] USER: {'email_verified': False, 'family_name': 'admin', 'given_name': 'admin', 'name': 'admin admin', 'preferred_username': 'admin', 'sub': 'ca0f5a55-f207-4d6b-af90-3cb915ae7270'} ALREADY LOGGED IN
+[10.12.23|22:25:41] USER: {'email_verified': False, 'family_name': 'admin', 'given_name': 'admin', 'name': 'admin admin', 'preferred_username': 'admin', 'sub': 'ca0f5a55-f207-4d6b-af90-3cb915ae7270'} ALREADY LOGGED IN
+[10.12.23|22:25:42] USER: {'email_verified': False, 'family_name': 'admin', 'given_name': 'admin', 'name': 'admin admin', 'preferred_username': 'admin', 'sub': 'ca0f5a55-f207-4d6b-af90-3cb915ae7270'} ALREADY LOGGED IN
+[10.12.23|22:25:48] 404
+[10.12.23|22:25:50] USER: {'email_verified': False, 'family_name': 'admin', 'given_name': 'admin', 'name': 'admin admin', 'preferred_username': 'admin', 'sub': 'ca0f5a55-f207-4d6b-af90-3cb915ae7270'} ALREADY LOGGED IN
+[10.12.23|22:26:16] USER: {'email_verified': False, 'family_name': 'admin', 'given_name': 'admin', 'name': 'admin admin', 'preferred_username': 'admin', 'sub': 'ca0f5a55-f207-4d6b-af90-3cb915ae7270'} ALREADY LOGGED IN
+[10.12.23|22:34:26] Folder: "/db" FOUND
+[10.12.23|22:34:26] DATABASE: "users.db" FOUND
+[10.12.23|22:34:26] TABLE: "Users" FOUND
+[10.12.23|22:34:26] DATABASE: "posts.db" FOUND
+[10.12.23|22:34:26] TABLE: "Posts" FOUND
+[10.12.23|22:34:26] DATABASE: "comments.db" FOUND
+[10.12.23|22:34:26] TABLE: "Comments" FOUND
+[10.12.23|22:34:31] USER: {'email_verified': False, 'family_name': 'admin', 'given_name': 'admin', 'name': 'admin admin', 'preferred_username': 'admin', 'sub': 'ca0f5a55-f207-4d6b-af90-3cb915ae7270'} ALREADY LOGGED IN
+[10.12.23|22:34:58] Folder: "/db" FOUND
+[10.12.23|22:34:58] DATABASE: "users.db" FOUND
+[10.12.23|22:34:58] TABLE: "Users" FOUND
+[10.12.23|22:34:58] DATABASE: "posts.db" FOUND
+[10.12.23|22:34:58] TABLE: "Posts" FOUND
+[10.12.23|22:34:58] DATABASE: "comments.db" FOUND
+[10.12.23|22:34:58] TABLE: "Comments" FOUND
+[10.12.23|22:35:02] USER: {'email_verified': False, 'family_name': 'admin', 'given_name': 'admin', 'name': 'admin admin', 'preferred_username': 'admin', 'sub': 'ca0f5a55-f207-4d6b-af90-3cb915ae7270'} ALREADY LOGGED IN
+[10.12.23|22:35:17] Folder: "/db" FOUND
+[10.12.23|22:35:17] DATABASE: "users.db" FOUND
+[10.12.23|22:35:17] TABLE: "Users" FOUND
+[10.12.23|22:35:17] DATABASE: "posts.db" FOUND
+[10.12.23|22:35:17] TABLE: "Posts" FOUND
+[10.12.23|22:35:17] DATABASE: "comments.db" FOUND
+[10.12.23|22:35:17] TABLE: "Comments" FOUND
+[10.12.23|22:35:19] USER: {'email_verified': False, 'family_name': 'admin', 'given_name': 'admin', 'name': 'admin admin', 'preferred_username': 'admin', 'sub': 'ca0f5a55-f207-4d6b-af90-3cb915ae7270'} ALREADY LOGGED IN
+[10.12.23|22:35:19] 404
+[10.12.23|22:36:15] Folder: "/db" FOUND
+[10.12.23|22:36:15] DATABASE: "users.db" FOUND
+[10.12.23|22:36:15] TABLE: "Users" FOUND
+[10.12.23|22:36:15] DATABASE: "posts.db" FOUND
+[10.12.23|22:36:15] TABLE: "Posts" FOUND
+[10.12.23|22:36:15] DATABASE: "comments.db" FOUND
+[10.12.23|22:36:15] TABLE: "Comments" FOUND
+[10.12.23|22:36:18] 404
+[10.12.23|22:36:19] 404
+[10.12.23|22:36:21] USER: {'email_verified': False, 'family_name': 'admin', 'given_name': 'admin', 'name': 'admin admin', 'preferred_username': 'admin', 'sub': 'ca0f5a55-f207-4d6b-af90-3cb915ae7270'} ALREADY LOGGED IN
+[10.12.23|22:36:21] 404
+[10.12.23|22:37:43] Folder: "/db" FOUND
+[10.12.23|22:37:43] DATABASE: "users.db" FOUND
+[10.12.23|22:37:43] TABLE: "Users" FOUND
+[10.12.23|22:37:43] DATABASE: "posts.db" FOUND
+[10.12.23|22:37:43] TABLE: "Posts" FOUND
+[10.12.23|22:37:43] DATABASE: "comments.db" FOUND
+[10.12.23|22:37:43] TABLE: "Comments" FOUND
+[10.12.23|22:37:56] USER: {'email_verified': False, 'family_name': 'admin', 'given_name': 'admin', 'name': 'admin admin', 'preferred_username': 'admin', 'sub': 'ca0f5a55-f207-4d6b-af90-3cb915ae7270'} ALREADY LOGGED IN
+[10.12.23|22:37:58] USER: {'email_verified': False, 'family_name': 'admin', 'given_name': 'admin', 'name': 'admin admin', 'preferred_username': 'admin', 'sub': 'ca0f5a55-f207-4d6b-af90-3cb915ae7270'} ALREADY LOGGED IN
+[10.12.23|22:37:59] USER: {'email_verified': False, 'family_name': 'admin', 'given_name': 'admin', 'name': 'admin admin', 'preferred_username': 'admin', 'sub': 'ca0f5a55-f207-4d6b-af90-3cb915ae7270'} ALREADY LOGGED IN
+[10.12.23|22:38:00] USER: {'email_verified': False, 'family_name': 'admin', 'given_name': 'admin', 'name': 'admin admin', 'preferred_username': 'admin', 'sub': 'ca0f5a55-f207-4d6b-af90-3cb915ae7270'} ALREADY LOGGED IN
+[10.12.23|22:38:00] USER: {'email_verified': False, 'family_name': 'admin', 'given_name': 'admin', 'name': 'admin admin', 'preferred_username': 'admin', 'sub': 'ca0f5a55-f207-4d6b-af90-3cb915ae7270'} ALREADY LOGGED IN
+[10.12.23|22:45:02] Folder: "/db" FOUND
+[10.12.23|22:45:02] DATABASE: "users.db" FOUND
+[10.12.23|22:45:02] TABLE: "Users" FOUND
+[10.12.23|22:45:02] DATABASE: "posts.db" FOUND
+[10.12.23|22:45:02] TABLE: "Posts" FOUND
+[10.12.23|22:45:02] DATABASE: "comments.db" FOUND
+[10.12.23|22:45:02] TABLE: "Comments" FOUND
+[10.12.23|22:45:02] Folder: "/db" FOUND
+[10.12.23|22:45:02] DATABASE: "users.db" FOUND
+[10.12.23|22:45:02] TABLE: "Users" FOUND
+[10.12.23|22:45:02] DATABASE: "posts.db" FOUND
+[10.12.23|22:45:02] TABLE: "Posts" FOUND
+[10.12.23|22:45:02] DATABASE: "comments.db" FOUND
+[10.12.23|22:45:02] TABLE: "Comments" FOUND
+[10.12.23|22:45:07] USER: {'email_verified': False, 'family_name': 'admin', 'given_name': 'admin', 'name': 'admin admin', 'preferred_username': 'admin', 'sub': 'ca0f5a55-f207-4d6b-af90-3cb915ae7270'} ALREADY LOGGED IN
+[10.12.23|22:45:09] USER: {'email_verified': False, 'family_name': 'admin', 'given_name': 'admin', 'name': 'admin admin', 'preferred_username': 'admin', 'sub': 'ca0f5a55-f207-4d6b-af90-3cb915ae7270'} ALREADY LOGGED IN
+[10.12.23|22:45:09] USER: {'email_verified': False, 'family_name': 'admin', 'given_name': 'admin', 'name': 'admin admin', 'preferred_username': 'admin', 'sub': 'ca0f5a55-f207-4d6b-af90-3cb915ae7270'} ALREADY LOGGED IN
+[10.12.23|22:45:10] USER: {'email_verified': False, 'family_name': 'admin', 'given_name': 'admin', 'name': 'admin admin', 'preferred_username': 'admin', 'sub': 'ca0f5a55-f207-4d6b-af90-3cb915ae7270'} ALREADY LOGGED IN
+[10.12.23|22:45:11] USER: {'email_verified': False, 'family_name': 'admin', 'given_name': 'admin', 'name': 'admin admin', 'preferred_username': 'admin', 'sub': 'ca0f5a55-f207-4d6b-af90-3cb915ae7270'} ALREADY LOGGED IN
+[10.12.23|22:45:21] USER: {'email_verified': False, 'family_name': 'admin', 'given_name': 'admin', 'name': 'admin admin', 'preferred_username': 'admin', 'sub': 'ca0f5a55-f207-4d6b-af90-3cb915ae7270'} ALREADY LOGGED IN
+[10.12.23|22:45:22] USER: {'email_verified': False, 'family_name': 'admin', 'given_name': 'admin', 'name': 'admin admin', 'preferred_username': 'admin', 'sub': 'ca0f5a55-f207-4d6b-af90-3cb915ae7270'} ALREADY LOGGED IN
+[10.12.23|22:45:23] USER: {'email_verified': False, 'family_name': 'admin', 'given_name': 'admin', 'name': 'admin admin', 'preferred_username': 'admin', 'sub': 'ca0f5a55-f207-4d6b-af90-3cb915ae7270'} ALREADY LOGGED IN
+[10.12.23|22:45:24] USER: {'email_verified': False, 'family_name': 'admin', 'given_name': 'admin', 'name': 'admin admin', 'preferred_username': 'admin', 'sub': 'ca0f5a55-f207-4d6b-af90-3cb915ae7270'} ALREADY LOGGED IN
+[10.12.23|22:45:24] USER: {'email_verified': False, 'family_name': 'admin', 'given_name': 'admin', 'name': 'admin admin', 'preferred_username': 'admin', 'sub': 'ca0f5a55-f207-4d6b-af90-3cb915ae7270'} ALREADY LOGGED IN
+[10.12.23|22:45:25] USER: {'email_verified': False, 'family_name': 'admin', 'given_name': 'admin', 'name': 'admin admin', 'preferred_username': 'admin', 'sub': 'ca0f5a55-f207-4d6b-af90-3cb915ae7270'} ALREADY LOGGED IN
+[10.12.23|22:52:21] Folder: "/db" FOUND
+[10.12.23|22:52:21] DATABASE: "users.db" FOUND
+[10.12.23|22:52:21] TABLE: "Users" FOUND
+[10.12.23|22:52:21] DATABASE: "posts.db" FOUND
+[10.12.23|22:52:21] TABLE: "Posts" FOUND
+[10.12.23|22:52:21] DATABASE: "comments.db" FOUND
+[10.12.23|22:52:21] TABLE: "Comments" FOUND
+[10.12.23|22:52:21] Folder: "/db" FOUND
+[10.12.23|22:52:21] DATABASE: "users.db" FOUND
+[10.12.23|22:52:21] TABLE: "Users" FOUND
+[10.12.23|22:52:21] DATABASE: "posts.db" FOUND
+[10.12.23|22:52:21] TABLE: "Posts" FOUND
+[10.12.23|22:52:21] DATABASE: "comments.db" FOUND
+[10.12.23|22:52:21] TABLE: "Comments" FOUND
+[10.12.23|22:52:29] USER: {'email_verified': False, 'family_name': 'admin', 'given_name': 'admin', 'name': 'admin admin', 'preferred_username': 'admin', 'sub': 'ca0f5a55-f207-4d6b-af90-3cb915ae7270'} ALREADY LOGGED IN
+[10.12.23|22:52:29] 404
+[10.12.23|22:56:27] 404
+[10.12.23|22:56:28] USER: "admin" FOUND
+[10.12.23|22:56:28] USER: "admin"s PAGE LOADED
+[10.12.23|22:57:10] USER: "admin" FOUND
+[10.12.23|22:57:10] USER: "admin"s PAGE LOADED
+[10.12.23|23:15:40] Folder: "/db" FOUND
+[10.12.23|23:15:40] DATABASE: "users.db" FOUND
+[10.12.23|23:15:40] TABLE: "Users" FOUND
+[10.12.23|23:15:40] DATABASE: "posts.db" FOUND
+[10.12.23|23:15:40] TABLE: "Posts" FOUND
+[10.12.23|23:15:40] DATABASE: "comments.db" FOUND
+[10.12.23|23:15:40] TABLE: "Comments" FOUND
+[10.12.23|23:18:00] Folder: "/db" FOUND
+[10.12.23|23:18:00] DATABASE: "users.db" FOUND
+[10.12.23|23:18:00] TABLE: "Users" FOUND
+[10.12.23|23:18:00] DATABASE: "posts.db" FOUND
+[10.12.23|23:18:00] TABLE: "Posts" FOUND
+[10.12.23|23:18:00] DATABASE: "comments.db" FOUND
+[10.12.23|23:18:00] TABLE: "Comments" FOUND
+[10.12.23|23:18:57] Folder: "/db" FOUND
+[10.12.23|23:18:57] DATABASE: "users.db" FOUND
+[10.12.23|23:18:57] TABLE: "Users" FOUND
+[10.12.23|23:18:57] DATABASE: "posts.db" FOUND
+[10.12.23|23:18:57] TABLE: "Posts" FOUND
+[10.12.23|23:18:57] DATABASE: "comments.db" FOUND
+[10.12.23|23:18:57] TABLE: "Comments" FOUND
+[10.12.23|23:18:57] Folder: "/db" FOUND
+[10.12.23|23:18:57] DATABASE: "users.db" FOUND
+[10.12.23|23:18:57] TABLE: "Users" FOUND
+[10.12.23|23:18:57] DATABASE: "posts.db" FOUND
+[10.12.23|23:18:57] TABLE: "Posts" FOUND
+[10.12.23|23:18:57] DATABASE: "comments.db" FOUND
+[10.12.23|23:18:57] TABLE: "Comments" FOUND
+[10.12.23|23:19:07] 404
+[10.12.23|23:19:08] USER: "admin" FOUND
+[10.12.23|23:19:08] USER: "admin"s PAGE LOADED
+[10.12.23|23:19:59] USER: "admin" FOUND
+[10.12.23|23:19:59] USER: "admin"s PAGE LOADED
+[10.12.23|23:21:56] USER: "admin" FOUND
+[10.12.23|23:21:56] USER: "admin"s PAGE LOADED
+[10.12.23|23:22:05] 404
+[10.12.23|23:25:23] USER: "admin" FOUND
+[10.12.23|23:25:23] USER: "admin"s PAGE LOADED
+[10.12.23|23:26:52] POST: "3" DELETED
+[10.12.23|23:26:56] POST: "1" FOUND
+[10.12.23|23:26:56] THIS POST DOES NOT BELONG TO USER: "admin"
+[10.12.23|23:26:59] POST: "1" FOUND
+[10.12.23|23:27:02] 404
+[10.12.23|23:27:02] 404
+[10.12.23|23:27:12] ADMIN: "admin" CHANGED USER: "dorukp"s ROLE TO admin
+[10.12.23|23:27:22] POST: "fgfgfgf" POSTED
+[10.12.23|23:27:22] 20 POINTS ADDED TO "admin"
+[10.12.23|23:27:31] USER: "admin" FOUND
+[10.12.23|23:27:31] USER: "admin"s PAGE LOADED
+[10.12.23|23:27:38] USER: "admin" FOUND
+[10.12.23|23:27:38] USER: "admin"s PAGE LOADED
+[10.12.23|23:27:39] USER: "admin" FOUND
+[10.12.23|23:27:39] USER: "admin"s PAGE LOADED
+[10.12.23|23:27:57] USER: "admin" FOUND
+[10.12.23|23:27:57] USER: "admin"s PAGE LOADED
+[10.12.23|23:28:05] USER: "admin" FOUND
+[10.12.23|23:28:05] USER: "admin"s PAGE LOADED
+[10.12.23|23:28:11] USER: "admin" FOUND
+[10.12.23|23:28:11] USER: "admin"s PAGE LOADED
+[10.12.23|23:30:44] Folder: "/db" FOUND
+[10.12.23|23:30:44] DATABASE: "users.db" FOUND
+[10.12.23|23:30:44] TABLE: "Users" FOUND
+[10.12.23|23:30:44] DATABASE: "posts.db" FOUND
+[10.12.23|23:30:44] TABLE: "Posts" FOUND
+[10.12.23|23:30:44] DATABASE: "comments.db" FOUND
+[10.12.23|23:30:44] TABLE: "Comments" FOUND
+[10.12.23|23:30:54] USER: "admin" FOUND
+[10.12.23|23:30:54] USER: "admin"s PAGE LOADED
+[10.12.23|23:32:47] Folder: "/db" FOUND
+[10.12.23|23:32:47] DATABASE: "users.db" FOUND
+[10.12.23|23:32:47] TABLE: "Users" FOUND
+[10.12.23|23:32:47] DATABASE: "posts.db" FOUND
+[10.12.23|23:32:47] TABLE: "Posts" FOUND
+[10.12.23|23:32:47] DATABASE: "comments.db" FOUND
+[10.12.23|23:32:47] TABLE: "Comments" FOUND
+[10.12.23|23:33:07] Folder: "/db" FOUND
+[10.12.23|23:33:07] DATABASE: "users.db" FOUND
+[10.12.23|23:33:07] TABLE: "Users" FOUND
+[10.12.23|23:33:07] DATABASE: "posts.db" FOUND
+[10.12.23|23:33:07] TABLE: "Posts" FOUND
+[10.12.23|23:33:07] DATABASE: "comments.db" FOUND
+[10.12.23|23:33:07] TABLE: "Comments" FOUND
+[10.12.23|23:33:13] USER: "admin" FOUND
+[10.12.23|23:33:13] USER: "admin"s PAGE LOADED
+[10.12.23|23:34:47] Folder: "/db" FOUND
+[10.12.23|23:34:47] DATABASE: "users.db" FOUND
+[10.12.23|23:34:47] TABLE: "Users" FOUND
+[10.12.23|23:34:47] DATABASE: "posts.db" FOUND
+[10.12.23|23:34:47] TABLE: "Posts" FOUND
+[10.12.23|23:34:47] DATABASE: "comments.db" FOUND
+[10.12.23|23:34:47] TABLE: "Comments" FOUND
+[10.12.23|23:40:54] Folder: "/db" FOUND
+[10.12.23|23:40:54] DATABASE: "users.db" FOUND
+[10.12.23|23:40:54] TABLE: "Users" FOUND
+[10.12.23|23:40:54] DATABASE: "posts.db" FOUND
+[10.12.23|23:40:54] TABLE: "Posts" FOUND
+[10.12.23|23:40:54] DATABASE: "comments.db" FOUND
+[10.12.23|23:40:54] TABLE: "Comments" FOUND
+[10.12.23|23:40:54] USER: "admin" FOUND
+[10.12.23|23:40:54] USER: "admin"s PAGE LOADED
+[11.12.23|00:02:03] Folder: "/db" FOUND
+[11.12.23|00:02:03] DATABASE: "users.db" FOUND
+[11.12.23|00:02:03] TABLE: "Users" FOUND
+[11.12.23|00:02:03] DATABASE: "posts.db" FOUND
+[11.12.23|00:02:03] TABLE: "Posts" FOUND
+[11.12.23|00:02:03] DATABASE: "comments.db" FOUND
+[11.12.23|00:02:03] TABLE: "Comments" FOUND
+[11.12.23|00:02:33] USER: "admin" FOUND
+[11.12.23|00:02:33] USER: "admin"s PAGE LOADED
+[11.12.23|00:02:35] POST: "5" FOUND
+[11.12.23|00:02:47] POST: "5" FOUND
+[11.12.23|00:02:47] 5 POINTS ADDED TO "admin"
+[11.12.23|00:02:47] POST: "5" FOUND
+[11.12.23|00:04:21] USER: "admin" FOUND
+[11.12.23|00:04:21] USER: "admin"s PAGE LOADED
+[11.12.23|00:04:43] Folder: "/db" FOUND
+[11.12.23|00:04:43] DATABASE: "users.db" FOUND
+[11.12.23|00:04:43] TABLE: "Users" FOUND
+[11.12.23|00:04:43] DATABASE: "posts.db" FOUND
+[11.12.23|00:04:43] TABLE: "Posts" FOUND
+[11.12.23|00:04:43] DATABASE: "comments.db" FOUND
+[11.12.23|00:04:43] TABLE: "Comments" FOUND
+[11.12.23|00:05:05] Folder: "/db" FOUND
+[11.12.23|00:05:05] DATABASE: "users.db" FOUND
+[11.12.23|00:05:05] TABLE: "Users" FOUND
+[11.12.23|00:05:05] DATABASE: "posts.db" FOUND
+[11.12.23|00:05:05] TABLE: "Posts" FOUND
+[11.12.23|00:05:05] DATABASE: "comments.db" FOUND
+[11.12.23|00:05:05] TABLE: "Comments" FOUND
+[11.12.23|00:05:44] Folder: "/db" FOUND
+[11.12.23|00:05:44] DATABASE: "users.db" FOUND
+[11.12.23|00:05:44] TABLE: "Users" FOUND
+[11.12.23|00:05:44] DATABASE: "posts.db" FOUND
+[11.12.23|00:05:44] TABLE: "Posts" FOUND
+[11.12.23|00:05:44] DATABASE: "comments.db" FOUND
+[11.12.23|00:05:44] TABLE: "Comments" FOUND
+[11.12.23|00:07:38] Folder: "/db" FOUND
+[11.12.23|00:07:38] DATABASE: "users.db" FOUND
+[11.12.23|00:07:38] TABLE: "Users" FOUND
+[11.12.23|00:07:38] DATABASE: "posts.db" FOUND
+[11.12.23|00:07:38] TABLE: "Posts" FOUND
+[11.12.23|00:07:38] DATABASE: "comments.db" FOUND
+[11.12.23|00:07:38] TABLE: "Comments" FOUND
+[11.12.23|08:34:13] USER: {'email_verified': False, 'family_name': 'admin', 'given_name': 'admin', 'name': 'admin admin', 'preferred_username': 'admin', 'sub': 'ca0f5a55-f207-4d6b-af90-3cb915ae7270'} ALREADY LOGGED IN
+[11.12.23|08:34:13] 404
+[11.12.23|08:34:34] POST: "1" FOUND
+[11.12.23|08:38:08] POST: "1" FOUND
+[11.12.23|08:38:47] Folder: "/db" FOUND
+[11.12.23|08:38:47] DATABASE: "users.db" FOUND
+[11.12.23|08:38:47] TABLE: "Users" FOUND
+[11.12.23|08:38:47] DATABASE: "posts.db" FOUND
+[11.12.23|08:38:47] TABLE: "Posts" FOUND
+[11.12.23|08:38:47] DATABASE: "comments.db" FOUND
+[11.12.23|08:38:47] TABLE: "Comments" FOUND
+[11.12.23|08:38:47] Folder: "/db" FOUND
+[11.12.23|08:38:47] DATABASE: "users.db" FOUND
+[11.12.23|08:38:47] TABLE: "Users" FOUND
+[11.12.23|08:38:47] DATABASE: "posts.db" FOUND
+[11.12.23|08:38:47] TABLE: "Posts" FOUND
+[11.12.23|08:38:47] DATABASE: "comments.db" FOUND
+[11.12.23|08:38:47] TABLE: "Comments" FOUND
+[11.12.23|09:01:05] USER: {'email_verified': False, 'family_name': 'admin', 'given_name': 'admin', 'name': 'admin admin', 'preferred_username': 'admin', 'sub': 'ca0f5a55-f207-4d6b-af90-3cb915ae7270'} ALREADY LOGGED IN
+[11.12.23|09:01:05] 404
+[11.12.23|09:01:23] USER: "admin" FOUND
+[11.12.23|09:01:23] USER: "admin"s PAGE LOADED
+[11.12.23|09:01:28] 404
+[11.12.23|09:03:53] Folder: "/db" FOUND
+[11.12.23|09:03:53] DATABASE: "users.db" FOUND
+[11.12.23|09:03:53] TABLE: "Users" FOUND
+[11.12.23|09:03:53] DATABASE: "posts.db" FOUND
+[11.12.23|09:03:53] TABLE: "Posts" FOUND
+[11.12.23|09:03:53] DATABASE: "comments.db" FOUND
+[11.12.23|09:03:53] TABLE: "Comments" FOUND
+[11.12.23|09:06:54] USER: "admin" FOUND
+[11.12.23|09:06:54] USER: "admin"s PAGE LOADED
+[11.12.23|09:07:00] POST: "1" FOUND
+[11.12.23|13:55:37] Folder: "/db" FOUND
+[11.12.23|13:55:37] DATABASE: "users.db" FOUND
+[11.12.23|13:55:37] TABLE: "Users" FOUND
+[11.12.23|13:55:37] DATABASE: "posts.db" FOUND
+[11.12.23|13:55:37] TABLE: "Posts" FOUND
+[11.12.23|13:55:37] DATABASE: "comments.db" FOUND
+[11.12.23|13:55:37] TABLE: "Comments" FOUND
+[11.12.23|13:55:58] Folder: "/db" FOUND
+[11.12.23|13:55:58] DATABASE: "users.db" FOUND
+[11.12.23|13:55:58] TABLE: "Users" FOUND
+[11.12.23|13:55:58] DATABASE: "posts.db" FOUND
+[11.12.23|13:55:58] TABLE: "Posts" FOUND
+[11.12.23|13:55:58] DATABASE: "comments.db" FOUND
+[11.12.23|13:55:58] TABLE: "Comments" FOUND
+[11.12.23|13:56:28] Folder: "/db" FOUND
+[11.12.23|13:56:28] DATABASE: "users.db" FOUND
+[11.12.23|13:56:28] TABLE: "Users" FOUND
+[11.12.23|13:56:28] DATABASE: "posts.db" FOUND
+[11.12.23|13:56:28] TABLE: "Posts" FOUND
+[11.12.23|13:56:28] DATABASE: "comments.db" FOUND
+[11.12.23|13:56:28] TABLE: "Comments" FOUND
+[11.12.23|13:56:28] Folder: "/db" FOUND
+[11.12.23|13:56:28] DATABASE: "users.db" FOUND
+[11.12.23|13:56:28] TABLE: "Users" FOUND
+[11.12.23|13:56:28] DATABASE: "posts.db" FOUND
+[11.12.23|13:56:28] TABLE: "Posts" FOUND
+[11.12.23|13:56:28] DATABASE: "comments.db" FOUND
+[11.12.23|13:56:28] TABLE: "Comments" FOUND
+[11.12.23|13:56:37] USER: {'email_verified': False, 'family_name': 'admin', 'given_name': 'admin', 'name': 'admin admin', 'preferred_username': 'admin', 'sub': 'ca0f5a55-f207-4d6b-af90-3cb915ae7270'} ALREADY LOGGED IN
+[11.12.23|13:56:37] 404
+[11.12.23|14:04:13] Folder: "/db" FOUND
+[11.12.23|14:04:13] DATABASE: "users.db" FOUND
+[11.12.23|14:04:13] TABLE: "Users" FOUND
+[11.12.23|14:04:13] DATABASE: "posts.db" FOUND
+[11.12.23|14:04:13] TABLE: "Posts" FOUND
+[11.12.23|14:04:13] DATABASE: "comments.db" FOUND
+[11.12.23|14:04:13] TABLE: "Comments" FOUND
+[11.12.23|14:05:12] USER: {'email_verified': False, 'family_name': 'admin', 'given_name': 'admin', 'name': 'admin admin', 'preferred_username': 'admin', 'sub': 'ca0f5a55-f207-4d6b-af90-3cb915ae7270'} ALREADY LOGGED IN
+[11.12.23|14:05:12] 404
+[11.12.23|14:06:37] Folder: "/db" FOUND
+[11.12.23|14:06:37] DATABASE: "users.db" FOUND
+[11.12.23|14:06:37] TABLE: "Users" FOUND
+[11.12.23|14:06:37] DATABASE: "posts.db" FOUND
+[11.12.23|14:06:37] TABLE: "Posts" FOUND
+[11.12.23|14:06:37] DATABASE: "comments.db" FOUND
+[11.12.23|14:06:37] TABLE: "Comments" FOUND
+[11.12.23|14:07:55] USER: {'email_verified': False, 'family_name': 'admin', 'given_name': 'admin', 'name': 'admin admin', 'preferred_username': 'admin', 'sub': 'ca0f5a55-f207-4d6b-af90-3cb915ae7270'} ALREADY LOGGED IN
+[11.12.23|14:07:55] 404
+[11.12.23|14:10:04] Folder: "/db" FOUND
+[11.12.23|14:10:04] DATABASE: "users.db" FOUND
+[11.12.23|14:10:04] TABLE: "Users" FOUND
+[11.12.23|14:10:04] DATABASE: "posts.db" FOUND
+[11.12.23|14:10:04] TABLE: "Posts" FOUND
+[11.12.23|14:10:04] DATABASE: "comments.db" FOUND
+[11.12.23|14:10:04] TABLE: "Comments" FOUND
+[11.12.23|14:10:14] USER: "admin" FOUND
+[11.12.23|14:10:14] USER: "admin"s PAGE LOADED
+[11.12.23|14:10:35] USER: {'email_verified': False, 'family_name': 'admin', 'given_name': 'admin', 'name': 'admin admin', 'preferred_username': 'admin', 'sub': 'ca0f5a55-f207-4d6b-af90-3cb915ae7270'} ALREADY LOGGED IN
+[11.12.23|14:25:22] Folder: "/db" FOUND
+[11.12.23|14:25:22] DATABASE: "users.db" FOUND
+[11.12.23|14:25:22] TABLE: "Users" FOUND
+[11.12.23|14:25:22] DATABASE: "posts.db" FOUND
+[11.12.23|14:25:22] TABLE: "Posts" FOUND
+[11.12.23|14:25:22] DATABASE: "comments.db" FOUND
+[11.12.23|14:25:22] TABLE: "Comments" FOUND
+[11.12.23|14:27:00] POST: "1" FOUND
+[11.12.23|14:27:06] USER: "admin" FOUND
+[11.12.23|14:27:06] USER: "admin"s PAGE LOADED
+[11.12.23|14:41:49] Folder: "/db" FOUND
+[11.12.23|14:41:49] DATABASE: "users.db" FOUND
+[11.12.23|14:41:49] TABLE: "Users" FOUND
+[11.12.23|14:41:49] DATABASE: "posts.db" FOUND
+[11.12.23|14:41:49] TABLE: "Posts" FOUND
+[11.12.23|14:41:49] DATABASE: "comments.db" FOUND
+[11.12.23|14:41:49] TABLE: "Comments" FOUND
+[11.12.23|14:42:45] Folder: "/db" FOUND
+[11.12.23|14:42:45] DATABASE: "users.db" FOUND
+[11.12.23|14:42:45] TABLE: "Users" FOUND
+[11.12.23|14:42:45] DATABASE: "posts.db" FOUND
+[11.12.23|14:42:45] TABLE: "Posts" FOUND
+[11.12.23|14:42:45] DATABASE: "comments.db" FOUND
+[11.12.23|14:42:45] TABLE: "Comments" FOUND
+[11.12.23|14:44:09] USER: "admin" FOUND
+[11.12.23|14:44:09] USER: "admin"s PAGE LOADED
+[11.12.23|14:46:58] Folder: "/db" FOUND
+[11.12.23|14:46:58] DATABASE: "users.db" FOUND
+[11.12.23|14:46:58] TABLE: "Users" FOUND
+[11.12.23|14:46:58] DATABASE: "posts.db" FOUND
+[11.12.23|14:46:58] TABLE: "Posts" FOUND
+[11.12.23|14:46:58] DATABASE: "comments.db" FOUND
+[11.12.23|14:46:58] TABLE: "Comments" FOUND
+[11.12.23|14:57:48] Folder: "/db" FOUND
+[11.12.23|14:57:48] DATABASE: "users.db" FOUND
+[11.12.23|14:57:48] TABLE: "Users" FOUND
+[11.12.23|14:57:48] DATABASE: "posts.db" FOUND
+[11.12.23|14:57:48] TABLE: "Posts" FOUND
+[11.12.23|14:57:48] DATABASE: "comments.db" FOUND
+[11.12.23|14:57:48] TABLE: "Comments" FOUND
+[11.12.23|15:01:08] Folder: "/db" FOUND
+[11.12.23|15:01:08] DATABASE: "users.db" FOUND
+[11.12.23|15:01:08] TABLE: "Users" FOUND
+[11.12.23|15:01:08] DATABASE: "posts.db" FOUND
+[11.12.23|15:01:08] TABLE: "Posts" FOUND
+[11.12.23|15:01:08] DATABASE: "comments.db" FOUND
+[11.12.23|15:01:08] TABLE: "Comments" FOUND
+[11.12.23|15:01:28] Folder: "/db" FOUND
+[11.12.23|15:01:28] DATABASE: "users.db" FOUND
+[11.12.23|15:01:28] TABLE: "Users" FOUND
+[11.12.23|15:01:28] DATABASE: "posts.db" FOUND
+[11.12.23|15:01:28] TABLE: "Posts" FOUND
+[11.12.23|15:01:28] DATABASE: "comments.db" FOUND
+[11.12.23|15:01:28] TABLE: "Comments" FOUND
+[11.12.23|15:01:28] Folder: "/db" FOUND
+[11.12.23|15:01:28] DATABASE: "users.db" FOUND
+[11.12.23|15:01:28] TABLE: "Users" FOUND
+[11.12.23|15:01:28] DATABASE: "posts.db" FOUND
+[11.12.23|15:01:28] TABLE: "Posts" FOUND
+[11.12.23|15:01:28] DATABASE: "comments.db" FOUND
+[11.12.23|15:01:28] TABLE: "Comments" FOUND
+[11.12.23|15:05:27] Folder: "/db" FOUND
+[11.12.23|15:05:27] DATABASE: "users.db" FOUND
+[11.12.23|15:05:27] TABLE: "Users" FOUND
+[11.12.23|15:05:27] DATABASE: "posts.db" FOUND
+[11.12.23|15:05:27] TABLE: "Posts" FOUND
+[11.12.23|15:05:27] DATABASE: "comments.db" FOUND
+[11.12.23|15:05:27] TABLE: "Comments" FOUND
+[11.12.23|15:06:15] Folder: "/db" FOUND
+[11.12.23|15:06:15] DATABASE: "users.db" FOUND
+[11.12.23|15:06:15] TABLE: "Users" FOUND
+[11.12.23|15:06:15] DATABASE: "posts.db" FOUND
+[11.12.23|15:06:15] TABLE: "Posts" FOUND
+[11.12.23|15:06:15] DATABASE: "comments.db" FOUND
+[11.12.23|15:06:15] TABLE: "Comments" FOUND
+[11.12.23|15:06:24] USER: "admin" FOUND
+[11.12.23|15:06:24] USER: "admin"s PAGE LOADED
+[11.12.23|15:48:55] Folder: "/db" FOUND
+[11.12.23|15:48:55] DATABASE: "users.db" FOUND
+[11.12.23|15:48:55] TABLE: "Users" FOUND
+[11.12.23|15:48:55] DATABASE: "posts.db" FOUND
+[11.12.23|15:48:55] TABLE: "Posts" FOUND
+[11.12.23|15:48:55] DATABASE: "comments.db" FOUND
+[11.12.23|15:48:55] TABLE: "Comments" FOUND
+[11.12.23|15:51:06] USER: "admin" FOUND
+[11.12.23|15:51:06] USER: "admin"s PAGE LOADED
+[17.12.23|19:58:54] Folder: "/db" FOUND
+[17.12.23|19:58:54] DATABASE: "users.db" FOUND
+[17.12.23|19:58:54] TABLE: "Users" FOUND
+[17.12.23|19:58:54] DATABASE: "posts.db" FOUND
+[17.12.23|19:58:54] TABLE: "Posts" FOUND
+[17.12.23|19:58:54] DATABASE: "comments.db" FOUND
+[17.12.23|19:58:54] TABLE: "Comments" FOUND
+[17.12.23|19:58:54] 404
+[17.12.23|19:59:02] USER: {'email_verified': False, 'family_name': 'admin', 'given_name': 'admin', 'name': 'admin admin', 'preferred_username': 'admin', 'sub': 'ca0f5a55-f207-4d6b-af90-3cb915ae7270'} ALREADY LOGGED IN
+[17.12.23|20:03:50] Folder: "/db" FOUND
+[17.12.23|20:03:50] DATABASE: "users.db" FOUND
+[17.12.23|20:03:50] TABLE: "Users" FOUND
+[17.12.23|20:03:50] DATABASE: "posts.db" FOUND
+[17.12.23|20:03:50] TABLE: "Posts" FOUND
+[17.12.23|20:03:50] DATABASE: "comments.db" FOUND
+[17.12.23|20:03:50] TABLE: "Comments" FOUND
+[17.12.23|20:04:41] USER: "admin" FOUND
+[17.12.23|20:04:41] USER: "admin"s PAGE LOADED
+[17.12.23|20:04:58] USER: "admin" FOUND
+[17.12.23|20:04:58] USER: "admin"s PAGE LOADED
+[17.12.23|20:05:03] USER: "admin" FOUND
+[17.12.23|20:05:03] USER: "admin"s PAGE LOADED
+[17.12.23|20:05:10] 404
+[17.12.23|20:08:57] USER: "admin" FOUND
+[17.12.23|20:08:57] USER: "admin"s PAGE LOADED
+[17.12.23|20:10:13] Folder: "/db" FOUND
+[17.12.23|20:10:13] DATABASE: "users.db" FOUND
+[17.12.23|20:10:13] TABLE: "Users" FOUND
+[17.12.23|20:10:13] DATABASE: "posts.db" FOUND
+[17.12.23|20:10:13] TABLE: "Posts" FOUND
+[17.12.23|20:10:13] DATABASE: "comments.db" FOUND
+[17.12.23|20:10:13] TABLE: "Comments" FOUND
+[17.12.23|20:17:32] Folder: "/db" FOUND
+[17.12.23|20:17:32] DATABASE: "users.db" FOUND
+[17.12.23|20:17:32] TABLE: "Users" FOUND
+[17.12.23|20:17:32] DATABASE: "posts.db" FOUND
+[17.12.23|20:17:32] TABLE: "Posts" FOUND
+[17.12.23|20:17:32] DATABASE: "comments.db" FOUND
+[17.12.23|20:17:32] TABLE: "Comments" FOUND
+[17.12.23|20:30:53] Folder: "/db" FOUND
+[17.12.23|20:30:53] DATABASE: "users.db" FOUND
+[17.12.23|20:30:53] TABLE: "Users" FOUND
+[17.12.23|20:30:53] DATABASE: "posts.db" FOUND
+[17.12.23|20:30:53] TABLE: "Posts" FOUND
+[17.12.23|20:30:53] DATABASE: "comments.db" FOUND
+[17.12.23|20:30:53] TABLE: "Comments" FOUND
+[17.12.23|20:39:51] Folder: "/db" FOUND
+[17.12.23|20:39:51] DATABASE: "users.db" FOUND
+[17.12.23|20:39:51] TABLE: "Users" FOUND
+[17.12.23|20:39:51] DATABASE: "posts.db" FOUND
+[17.12.23|20:39:51] TABLE: "Posts" FOUND
+[17.12.23|20:39:51] DATABASE: "comments.db" FOUND
+[17.12.23|20:39:51] TABLE: "Comments" FOUND
+[17.12.23|20:46:58] Folder: "/db" FOUND
+[17.12.23|20:46:58] DATABASE: "users.db" FOUND
+[17.12.23|20:46:58] TABLE: "Users" FOUND
+[17.12.23|20:46:58] DATABASE: "posts.db" FOUND
+[17.12.23|20:46:58] TABLE: "Posts" FOUND
+[17.12.23|20:46:58] DATABASE: "comments.db" FOUND
+[17.12.23|20:46:58] TABLE: "Comments" FOUND
+[17.12.23|20:46:58] Folder: "/db" FOUND
+[17.12.23|20:46:58] DATABASE: "users.db" FOUND
+[17.12.23|20:46:58] TABLE: "Users" FOUND
+[17.12.23|20:46:58] DATABASE: "posts.db" FOUND
+[17.12.23|20:46:58] TABLE: "Posts" FOUND
+[17.12.23|20:46:58] DATABASE: "comments.db" FOUND
+[17.12.23|20:46:58] TABLE: "Comments" FOUND
+[17.12.23|20:50:56] Folder: "/db" FOUND
+[17.12.23|20:50:56] DATABASE: "users.db" FOUND
+[17.12.23|20:50:56] TABLE: "Users" FOUND
+[17.12.23|20:50:56] DATABASE: "posts.db" FOUND
+[17.12.23|20:50:56] TABLE: "Posts" FOUND
+[17.12.23|20:50:56] DATABASE: "comments.db" FOUND
+[17.12.23|20:50:56] TABLE: "Comments" FOUND
+[17.12.23|20:52:06] Folder: "/db" FOUND
+[17.12.23|20:52:06] DATABASE: "users.db" FOUND
+[17.12.23|20:52:06] TABLE: "Users" FOUND
+[17.12.23|20:52:06] DATABASE: "posts.db" FOUND
+[17.12.23|20:52:06] TABLE: "Posts" FOUND
+[17.12.23|20:52:06] DATABASE: "comments.db" FOUND
+[17.12.23|20:52:06] TABLE: "Comments" FOUND
+[17.12.23|21:16:04] Folder: "/db" FOUND
+[17.12.23|21:16:04] DATABASE: "users.db" FOUND
+[17.12.23|21:16:04] TABLE: "Users" FOUND
+[17.12.23|21:16:04] DATABASE: "posts.db" FOUND
+[17.12.23|21:16:04] TABLE: "Posts" FOUND
+[17.12.23|21:16:04] DATABASE: "comments.db" FOUND
+[17.12.23|21:16:04] TABLE: "Comments" FOUND
+[17.12.23|21:16:33] Folder: "/db" FOUND
+[17.12.23|21:16:33] DATABASE: "users.db" FOUND
+[17.12.23|21:16:33] TABLE: "Users" FOUND
+[17.12.23|21:16:33] DATABASE: "posts.db" FOUND
+[17.12.23|21:16:33] TABLE: "Posts" FOUND
+[17.12.23|21:16:33] DATABASE: "comments.db" FOUND
+[17.12.23|21:16:33] TABLE: "Comments" FOUND
+[17.12.23|21:17:06] Folder: "/db" FOUND
+[17.12.23|21:17:06] DATABASE: "users.db" FOUND
+[17.12.23|21:17:06] TABLE: "Users" FOUND
+[17.12.23|21:17:06] DATABASE: "posts.db" FOUND
+[17.12.23|21:17:06] TABLE: "Posts" FOUND
+[17.12.23|21:17:06] DATABASE: "comments.db" FOUND
+[17.12.23|21:17:06] TABLE: "Comments" FOUND
+[17.12.23|21:17:06] Folder: "/db" FOUND
+[17.12.23|21:17:06] DATABASE: "users.db" FOUND
+[17.12.23|21:17:06] TABLE: "Users" FOUND
+[17.12.23|21:17:06] DATABASE: "posts.db" FOUND
+[17.12.23|21:17:06] TABLE: "Posts" FOUND
+[17.12.23|21:17:06] DATABASE: "comments.db" FOUND
+[17.12.23|21:17:06] TABLE: "Comments" FOUND
+[17.12.23|21:23:44] Folder: "/db" FOUND
+[17.12.23|21:23:44] DATABASE: "users.db" FOUND
+[17.12.23|21:23:44] TABLE: "Users" FOUND
+[17.12.23|21:23:44] DATABASE: "posts.db" FOUND
+[17.12.23|21:23:44] TABLE: "Posts" FOUND
+[17.12.23|21:23:44] DATABASE: "comments.db" FOUND
+[17.12.23|21:23:44] TABLE: "Comments" FOUND
+[17.12.23|21:31:17] Folder: "/db" FOUND
+[17.12.23|21:31:17] DATABASE: "users.db" FOUND
+[17.12.23|21:31:17] TABLE: "Users" FOUND
+[17.12.23|21:31:17] DATABASE: "posts.db" FOUND
+[17.12.23|21:31:17] TABLE: "Posts" FOUND
+[17.12.23|21:31:17] DATABASE: "comments.db" FOUND
+[17.12.23|21:31:17] TABLE: "Comments" FOUND
+[17.12.23|21:31:17] Folder: "/db" FOUND
+[17.12.23|21:31:17] DATABASE: "users.db" FOUND
+[17.12.23|21:31:17] TABLE: "Users" FOUND
+[17.12.23|21:31:17] DATABASE: "posts.db" FOUND
+[17.12.23|21:31:17] TABLE: "Posts" FOUND
+[17.12.23|21:31:17] DATABASE: "comments.db" FOUND
+[17.12.23|21:31:17] TABLE: "Comments" FOUND
+[17.12.23|21:37:33] Folder: "/db" FOUND
+[17.12.23|21:37:33] DATABASE: "users.db" FOUND
+[17.12.23|21:37:33] TABLE: "Users" FOUND
+[17.12.23|21:37:33] DATABASE: "posts.db" FOUND
+[17.12.23|21:37:33] TABLE: "Posts" FOUND
+[17.12.23|21:37:33] DATABASE: "comments.db" FOUND
+[17.12.23|21:37:33] TABLE: "Comments" FOUND
+[17.12.23|21:37:55] Folder: "/db" FOUND
+[17.12.23|21:37:55] DATABASE: "users.db" FOUND
+[17.12.23|21:37:55] TABLE: "Users" FOUND
+[17.12.23|21:37:55] DATABASE: "posts.db" FOUND
+[17.12.23|21:37:55] TABLE: "Posts" FOUND
+[17.12.23|21:37:55] DATABASE: "comments.db" FOUND
+[17.12.23|21:37:55] TABLE: "Comments" FOUND
+[17.12.23|21:40:40] Folder: "/db" FOUND
+[17.12.23|21:40:40] DATABASE: "users.db" FOUND
+[17.12.23|21:40:40] TABLE: "Users" FOUND
+[17.12.23|21:40:40] DATABASE: "posts.db" FOUND
+[17.12.23|21:40:40] TABLE: "Posts" FOUND
+[17.12.23|21:40:40] DATABASE: "comments.db" FOUND
+[17.12.23|21:40:40] TABLE: "Comments" FOUND
+[17.12.23|21:41:06] 404
+[17.12.23|21:41:57] Folder: "/db" FOUND
+[17.12.23|21:41:57] DATABASE: "users.db" FOUND
+[17.12.23|21:41:57] TABLE: "Users" FOUND
+[17.12.23|21:41:57] DATABASE: "posts.db" FOUND
+[17.12.23|21:41:57] TABLE: "Posts" FOUND
+[17.12.23|21:41:57] DATABASE: "comments.db" FOUND
+[17.12.23|21:41:57] TABLE: "Comments" FOUND
+[17.12.23|21:41:58] USER: "admin" LOGGED OUT
+[17.12.23|21:42:00] USER: "admin" LOGGED OUT
+[17.12.23|21:42:17] USER: "admin" LOGGED OUT
+[17.12.23|21:42:29] Folder: "/db" FOUND
+[17.12.23|21:42:29] DATABASE: "users.db" FOUND
+[17.12.23|21:42:29] TABLE: "Users" FOUND
+[17.12.23|21:42:29] DATABASE: "posts.db" FOUND
+[17.12.23|21:42:29] TABLE: "Posts" FOUND
+[17.12.23|21:42:29] DATABASE: "comments.db" FOUND
+[17.12.23|21:42:29] TABLE: "Comments" FOUND
+[17.12.23|21:42:39] Folder: "/db" FOUND
+[17.12.23|21:42:39] DATABASE: "users.db" FOUND
+[17.12.23|21:42:39] TABLE: "Users" FOUND
+[17.12.23|21:42:39] DATABASE: "posts.db" FOUND
+[17.12.23|21:42:39] TABLE: "Posts" FOUND
+[17.12.23|21:42:39] DATABASE: "comments.db" FOUND
+[17.12.23|21:42:39] TABLE: "Comments" FOUND
+[17.12.23|21:44:13] Folder: "/db" FOUND
+[17.12.23|21:44:13] DATABASE: "users.db" FOUND
+[17.12.23|21:44:13] TABLE: "Users" FOUND
+[17.12.23|21:44:13] DATABASE: "posts.db" FOUND
+[17.12.23|21:44:13] TABLE: "Posts" FOUND
+[17.12.23|21:44:13] DATABASE: "comments.db" FOUND
+[17.12.23|21:44:13] TABLE: "Comments" FOUND
+[17.12.23|21:44:17] USER: "admin" LOGGED OUT
+[17.12.23|21:44:17] 404
+[17.12.23|21:45:01] USER: "admin" FOUND
+[17.12.23|21:45:01] USER: "admin"s PAGE LOADED
+[17.12.23|21:45:28] USER: "admin" LOGGED OUT
+[17.12.23|21:45:28] 404
+[17.12.23|21:46:27] Folder: "/db" FOUND
+[17.12.23|21:46:27] DATABASE: "users.db" FOUND
+[17.12.23|21:46:27] TABLE: "Users" FOUND
+[17.12.23|21:46:27] DATABASE: "posts.db" FOUND
+[17.12.23|21:46:27] TABLE: "Posts" FOUND
+[17.12.23|21:46:27] DATABASE: "comments.db" FOUND
+[17.12.23|21:46:27] TABLE: "Comments" FOUND
+[17.12.23|21:46:33] Folder: "/db" FOUND
+[17.12.23|21:46:33] DATABASE: "users.db" FOUND
+[17.12.23|21:46:33] TABLE: "Users" FOUND
+[17.12.23|21:46:33] DATABASE: "posts.db" FOUND
+[17.12.23|21:46:33] TABLE: "Posts" FOUND
+[17.12.23|21:46:33] DATABASE: "comments.db" FOUND
+[17.12.23|21:46:33] TABLE: "Comments" FOUND
+[17.12.23|21:46:35] USER: "admin" LOGGED OUT
+[17.12.23|21:46:35] USER: "<SecureCookieSession {}>" LOGGED OUT
+[17.12.23|21:46:35] 404
+[17.12.23|21:47:07] USER: {'email_verified': False, 'family_name': 'admin', 'given_name': 'admin', 'name': 'admin admin', 'preferred_username': 'admin', 'sub': 'ca0f5a55-f207-4d6b-af90-3cb915ae7270'} ALREADY LOGGED IN
+[17.12.23|21:47:15] USER: "admin" LOGGED OUT
+[17.12.23|21:47:15] USER: "<SecureCookieSession {}>" LOGGED OUT
+[17.12.23|21:48:04] Folder: "/db" FOUND
+[17.12.23|21:48:04] DATABASE: "users.db" FOUND
+[17.12.23|21:48:04] TABLE: "Users" FOUND
+[17.12.23|21:48:04] DATABASE: "posts.db" FOUND
+[17.12.23|21:48:04] TABLE: "Posts" FOUND
+[17.12.23|21:48:04] DATABASE: "comments.db" FOUND
+[17.12.23|21:48:04] TABLE: "Comments" FOUND
+[17.12.23|21:48:07] USER: {'email_verified': False, 'family_name': 'admin', 'given_name': 'admin', 'name': 'admin admin', 'preferred_username': 'admin', 'sub': 'ca0f5a55-f207-4d6b-af90-3cb915ae7270'} ALREADY LOGGED IN
+[17.12.23|21:49:10] USER: "admin" LOGGED OUT
+[17.12.23|21:49:10] USER: "<SecureCookieSession {}>" LOGGED OUT
+[17.12.23|21:51:38] Folder: "/db" FOUND
+[17.12.23|21:51:38] DATABASE: "users.db" FOUND
+[17.12.23|21:51:38] TABLE: "Users" FOUND
+[17.12.23|21:51:38] DATABASE: "posts.db" FOUND
+[17.12.23|21:51:38] TABLE: "Posts" FOUND
+[17.12.23|21:51:38] DATABASE: "comments.db" FOUND
+[17.12.23|21:51:38] TABLE: "Comments" FOUND
+[17.12.23|21:51:38] Folder: "/db" FOUND
+[17.12.23|21:51:38] DATABASE: "users.db" FOUND
+[17.12.23|21:51:38] TABLE: "Users" FOUND
+[17.12.23|21:51:38] DATABASE: "posts.db" FOUND
+[17.12.23|21:51:38] TABLE: "Posts" FOUND
+[17.12.23|21:51:38] DATABASE: "comments.db" FOUND
+[17.12.23|21:51:38] TABLE: "Comments" FOUND
+[17.12.23|21:51:45] USER: {'email_verified': False, 'family_name': 'admin', 'given_name': 'admin', 'name': 'admin admin', 'preferred_username': 'admin', 'sub': 'ca0f5a55-f207-4d6b-af90-3cb915ae7270'} ALREADY LOGGED IN
+[17.12.23|21:51:48] USER: "admin" LOGGED OUT
+[17.12.23|21:51:48] USER: "<SecureCookieSession {}>" LOGGED OUT
+[17.12.23|21:53:23] Folder: "/db" FOUND
+[17.12.23|21:53:23] DATABASE: "users.db" FOUND
+[17.12.23|21:53:23] TABLE: "Users" FOUND
+[17.12.23|21:53:23] DATABASE: "posts.db" FOUND
+[17.12.23|21:53:23] TABLE: "Posts" FOUND
+[17.12.23|21:53:23] DATABASE: "comments.db" FOUND
+[17.12.23|21:53:23] TABLE: "Comments" FOUND
+[17.12.23|21:53:25] USER: {'email_verified': False, 'family_name': 'admin', 'given_name': 'admin', 'name': 'admin admin', 'preferred_username': 'admin', 'sub': 'ca0f5a55-f207-4d6b-af90-3cb915ae7270'} ALREADY LOGGED IN
+[17.12.23|21:53:27] USER: "admin" LOGGED OUT
+[17.12.23|21:53:27] USER: "<SecureCookieSession {}>" LOGGED OUT
+[17.12.23|21:53:36] Folder: "/db" FOUND
+[17.12.23|21:53:36] DATABASE: "users.db" FOUND
+[17.12.23|21:53:36] TABLE: "Users" FOUND
+[17.12.23|21:53:36] DATABASE: "posts.db" FOUND
+[17.12.23|21:53:36] TABLE: "Posts" FOUND
+[17.12.23|21:53:36] DATABASE: "comments.db" FOUND
+[17.12.23|21:53:36] TABLE: "Comments" FOUND
+[17.12.23|21:54:08] USER: {'email_verified': False, 'family_name': 'admin', 'given_name': 'admin', 'name': 'admin admin', 'preferred_username': 'admin', 'sub': 'ca0f5a55-f207-4d6b-af90-3cb915ae7270'} ALREADY LOGGED IN
+[17.12.23|21:54:14] 404
+[17.12.23|21:54:31] 404
+[17.12.23|21:55:03] Folder: "/db" FOUND
+[17.12.23|21:55:03] DATABASE: "users.db" FOUND
+[17.12.23|21:55:03] TABLE: "Users" FOUND
+[17.12.23|21:55:03] DATABASE: "posts.db" FOUND
+[17.12.23|21:55:03] TABLE: "Posts" FOUND
+[17.12.23|21:55:03] DATABASE: "comments.db" FOUND
+[17.12.23|21:55:03] TABLE: "Comments" FOUND
+[17.12.23|21:55:06] USER: "admin" LOGGED OUT
+[17.12.23|21:55:06] USER: "<SecureCookieSession {}>" LOGGED OUT
+[18.12.23|08:23:23] Folder: "/db" FOUND
+[18.12.23|08:23:23] DATABASE: "users.db" FOUND
+[18.12.23|08:23:23] TABLE: "Users" FOUND
+[18.12.23|08:23:23] DATABASE: "posts.db" FOUND
+[18.12.23|08:23:23] TABLE: "Posts" FOUND
+[18.12.23|08:23:23] DATABASE: "comments.db" FOUND
+[18.12.23|08:23:23] TABLE: "Comments" FOUND
+[18.12.23|08:23:31] Folder: "/db" FOUND
+[18.12.23|08:23:31] DATABASE: "users.db" FOUND
+[18.12.23|08:23:31] TABLE: "Users" FOUND
+[18.12.23|08:23:31] DATABASE: "posts.db" FOUND
+[18.12.23|08:23:31] TABLE: "Posts" FOUND
+[18.12.23|08:23:31] DATABASE: "comments.db" FOUND
+[18.12.23|08:23:31] TABLE: "Comments" FOUND
+[18.12.23|13:17:20] USER: {'email_verified': False, 'family_name': 'admin', 'given_name': 'admin', 'name': 'admin admin', 'preferred_username': 'admin', 'sub': 'ca0f5a55-f207-4d6b-af90-3cb915ae7270'} ALREADY LOGGED IN
