@@ -137,12 +137,13 @@ def login(direct):
 @oidc.require_login
 def test_logout():
     if "userName" in session:
+        token = session["oidc_auth_profile"]["sub"]
         message("1", f'USER: "{session["userName"]}" LOGGED OUT')
         session.clear()
         message("1", f'USER: "{session}" LOGGED OUT')
-        if oidc.user_loggedin:
-           oidc.logout()
-        return redirect("/")
+        oidc.logout()
+        message("1", f'USER:  LOGGED OUT')
+        return redirect(f"http://localhost:8080/realms/flaskBlog/protocol/openid-connect/logout?client_id=login-app&post_logout_redirect_uri=http://127.0.1.1:5000/")
     else:
             message("1", f"USER NOT LOGGED IN")
             return redirect("/")
